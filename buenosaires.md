@@ -24,3 +24,10 @@ En invierno el frío es moderado durante el día pero por las noches baja consid
 En verano el calor es húmedo. Las mañanas son calurosas, mientras que hacia el mediodía y las primeras horas de la tarde las temperaturas aumentan de manera significativa. A la noche, el calor disminuye levemente, por lo que se usa ropa fresca y liviana y no hay necesidad de abrigos.
 Las temporadas más lluviosas son el otoño y la primavera (de marzo a junio y de septiembre a diciembre). Son generalmente lloviznas o lluvias breves que no impiden el desarrollo de las distintas actividades y permiten caminar por la calle con paraguas o impermeable.
 En los días soleados de otoño y primavera las mañanas son frescas, la temperatura aumenta en forma agradable hacia el mediodía y desciende por la noche.
+
+## Estaciones 
+
+Verano (21 de diciembre a 20 de marzo).
+Otoño (21 de marzo a 20 de junio).
+Invierno (21 de junio a 20 de septiembre).
+Primavera (21 de septiembre a 20 de diciembre).
