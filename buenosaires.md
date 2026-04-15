@@ -16,3 +16,11 @@ Además de su impresionante programación artística, podéis descubrir este ico
 Así se creó una cultura gastronómica típica y de sabor inconfundible, que cuenta con propuestas para todos los gustos.
 
 La gastronomía se ha profesionalizado y modernizado a tal punto que chefs y restaurantes de la Ciudad han sido reconocidos por sus creaciones en todo el mundo, con premios como Latin America’s 50 Best Restaurants y recomendados en la Guía MICHELIN.
+
+## Clima de buenos aires 
+Con una temperatura media anual de 18ºC (64°F), son escasos los días de calor y frío intensos, lo que permite visitar la ciudad en cualquier época del año.
+El mes más frío es julio. Aunque no se presentan heladas, es necesario salir con un abrigo de lana, una campera o sobretodo y bufanda.
+En invierno el frío es moderado durante el día pero por las noches baja considerablemente la temperatura.
+En verano el calor es húmedo. Las mañanas son calurosas, mientras que hacia el mediodía y las primeras horas de la tarde las temperaturas aumentan de manera significativa. A la noche, el calor disminuye levemente, por lo que se usa ropa fresca y liviana y no hay necesidad de abrigos.
+Las temporadas más lluviosas son el otoño y la primavera (de marzo a junio y de septiembre a diciembre). Son generalmente lloviznas o lluvias breves que no impiden el desarrollo de las distintas actividades y permiten caminar por la calle con paraguas o impermeable.
+En los días soleados de otoño y primavera las mañanas son frescas, la temperatura aumenta en forma agradable hacia el mediodía y desciende por la noche.
