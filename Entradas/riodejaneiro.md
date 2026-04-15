@@ -8,3 +8,10 @@ La ciudad es un gran encuentro entre el espíritu humano y la grandeza natural. 
 Visitar Río de Janeiro es seguro experimentar playas paradisíacas, de aguas traslúcidas. El litoral de la ciudad tiene una longitud aproximada de 86 km, con playas para todos los gustos, lo que hace mucho más interesante la visita a la ciudad, con varias opciones para disfrutar de los días soleados.
 
 Las playas de Copacabana e Ipanema son conocidas internacionalmente, siendo famosas postales de la ciudad. Y siguiendo el mismo entorno encantador, lleno de belleza natural, es posible encontrar otras playas como Arpoador, Leme y Leblon.
+
+## Carnaval y cultura 
+El Carnaval de Rio tiene una duración de cuatro días en los cuales las escuelas de Samba se dan cita para competir, y en donde la ciudad recibe visitantes de todo el mundo, vistiendose de un solo color, la alegría! La ciudad en si misma participa de la celebración, con esto queremos decir que en la época del Carnaval las festividades involucran a personas de todas las edades y clases sociales, lo que hace que sea un evento que promueve la inclusión.
+
+El Carnaval da su inicio en el Sambódromo Marques de Sapucaí, con la apertura de la celebración a través de la coronación del Rey Momo por parte del prefecto, quien entrega las llaves de la ciudad.
+
+El evento principal será el desfile en el Sambódromo por parte de las escuelas de Samba. Sin embargo, podremos encontrar un sinnúmero de eventos callejeros y fiestas privadas para todos los gustos. En el Carnaval de Rio la diversión está garantizada.
