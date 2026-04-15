@@ -6,6 +6,3 @@
 5. [Buenos Aires](Entradas/buenosaires.md)
 6. [Bucaramanga](Entradas/bucaramanga.md)
 7. [Medellin](Entradas/medellin.md)
-8. Bogota
-9. Cali
-10. Pereira
