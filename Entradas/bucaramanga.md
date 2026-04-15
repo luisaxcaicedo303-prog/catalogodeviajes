@@ -7,3 +7,7 @@ En cuanto llegues, verás verde por aquí y verde por allá. Bucaramanga es una 
 
 La ciudad está cobrando más y más fuerza como escenario de convenciones y viajes de incentivos debido a que ofrece instalaciones de primera clase, alojamientos accesibles y una buena conectividad.
 
+## Atracciones y experiencias
+## Girón
+¿Te sientes inmerso en un oasis de tranquilidad? ¡Llegaste a Girón! Si bien se encuentra dentro la modernidad, el bullicio y el crecimiento urbano de Bucaramanga, esta ciudad colonial se las ingenió para mantener su atmósfera aletargada y atemporal. No hay nada mejor que pasear por sus callecitas empedradas y observar cada una de las casas blancas que las adornan. También encontrarás bonitas plazas con sus correspondientes iglesias, que poco han cambiado desde la época colonial, sin perder su encanto.
+
