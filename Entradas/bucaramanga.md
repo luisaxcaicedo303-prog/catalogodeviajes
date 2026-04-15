@@ -13,4 +13,6 @@ La ciudad está cobrando más y más fuerza como escenario de convenciones y via
 
 # Parapente
 Al sur de la ciudad, alrededor de la Mesa de Ruitoque, se arremolinan los mejores vientos térmicos de Colombia para practicar parapente. Hay una oferta muy variada de vuelos en tándem que brindan vistas espectaculares de Bucaramanga y las montañas que la rodean. También encontrarás cursos de varios días disponibles para quienes deseen aprender el deporte con el objetivo de volar por su cuenta.
+# Casa de Bolívar
+Esta mansión colonial de adobe fue restaurada meticulosamente para disimular los tres siglos de historia que lleva a cuestas. En su entonces, fue el hogar del héroe de la liberación sudamericana Simón Bolívar y, hoy en día, alberga un interesante museo dedicado a la historia prehispánica, colonial y republicana de la región. Las exposiciones se dividen en salas temáticas e incluyen artefactos fascinantes del grupo indígena guane, que en su momento habitó el área que ahora es el departamento de Santander.
 
