@@ -1,0 +1,46 @@
+## Introduccion de tokio
+Durante los 400 años transcurridos desde que Tokugawa Ieyasu estableció el shogunato de Edo aquí en 1603, Tokio ha prosperado como el centro político y administrativo de Japón. Tokio, capital del Japón, con sus 14 millones de habitantes se confirma la metrópoli más populosa del país y una de las mayores ciudades del mundo. Tokio se identifica como el centro político, económico y cultural de Japón y, en base a la subdivisión administrativa del territorio, se divide en 23 distritos que incluyen 26 ciudades, 5 ciudadelas y 8 aldeas.
+
+La prefectura de Tokio se encuentra casi al centro del archipiélago de Japón, en la parte meridional de la región de Kanto y confinando al este con la prefectura de Chiba, cuyo límite es definido por el río Edogawa, al oeste con la prefectura de Yamanashi, cuyo límite es definido por el área de las montañas, al sur con la prefectura de Kanagawa, cuyo límite es definido por el río Tamagawa y al norte con la prefectura de Saitama. El total de la superficie, de 2.194 kilómetros cuadrados, es la tercera más pequeña del país. Del este al oeste se extiende una amplia zona de montañas, colinas y mesetas. Del punto más bajo, a menos de 4 m. sobre el nivel del mar, al área de las montañas, con cumbres hasta los 2.000 m., la conformación geográfica presenta un terreno rico en ondulaciones. Aunque se trata de una prefectura de superficie pequeña también está constituida por varias islas en el Pacífico, entre las cuales se hallan las islas volcánicas Izu y los islotes Ogasawara, que contribuyen a la particularidad de esta tierra, muy variada geográficamente.
+
+Resumen de Áreas
+23 distritos
+La superficie de los 23 barrios de Tokio es de unos 628 kilómetros cuadrados, y supoblación se estima en alrededor de 9,9 millones de personas. En calidad de poloindustrial y comercial, con una red de carreteras siempre en vía de desarrolloy como centro turístico y cultural con múltiples lugares de interés, atraeinnumerables turistas no sólo del extranjero pero también de todas las regionesdel país. Las oficinas del Gobierno Metropolitano de Tokio que administra la ciudad, el edificio de la estación Tokyo, que fue restaurado en 2012 para recuperar su aspecto original como un ejemplo de la histórica arquitectura de ladrillos de Japón, y la torre TOKYO SKYTREE, la torre de radiodifusión autosoportada más alta del mundo, son solo algunos ejemplos de puntos turísticos llenos de historia y tradición. Echa un vistazo a la Guía del Área de Tokio para obtener más información sobre los distintos barrios y qué ver.
+
+TOKYO SKYTREE y el monte FujiEstación Tokyo
+La región de Tama
+La región de Tama tiene unos 1.160 kilómetros cuadrados en superficie donde viven alrededor de 4,3 millones de personas. Favorecida por una naturaleza lozana dista, más o menos, una hora en tren del centro de la ciudad poniendo así la zona en una posición de favor también como ciudad dormitorio. Es una área residencial en vía de desarrollo que puede ofrecer todos los servicios comunes de la educación, cultura, comercio y divertimento. El área noroeste, llamada Okutama, está dotada de múltiples recursos naturalistas, con montañas, lagos y valles además de actividades entre las cuales destacan las excursiones a las canteras de caliza, las salidas para admirar el color de las hojas de los arces en otoño, el camping y las largas caminatas.
+
+Lago OkutamaMonte Takao
+La región de las islas
+La cadena de las islas Izu se encuentra en el Pacífico y algunos de sus islotes son, desde el más cercano al centro de Tokio al más lejano: Oshima, Toshima, Niijima, Shikinejima, Kozushima, Miyakejima, Mikurajima, Hachijojima y Aogashima. Oshima dista de Tokio 108 kilómetros, mientras Aogashima dista 354 kilómetros. Cada islote se caracteriza por sus propias particularidades, pero todos son lugares de impresionante belleza del paisaje y están muy animados de turistas que gozan de la práctica de la pesca o que se dedican a los deportes marinos.
+El archipiélago Ogasawara incluye más de 20 islas situadas a aproximadamente 1.000Km del centro de Tokio, y de las cuales solamente dos están habitadas: Chichijima y Hahajima. De clima subtropical, el archipiélago Ogasawara posee un ecosistema propio y casi el total del área de las islas forma parte del Parque Nacional de Ogasawara que está inscrito en la Lista del Patrimonio Mundial de la Humanidad. Tokio también incluye varias islas con abundantes paisajes naturales y culturas únicas, como las islas Izu y Ogasawara.
+
+# lugares turisticos 
+Principales atracciones turísticas en Tokio
+Los turistas muchos sitios para conocer y disfrutar durante su viaje Tokio. Sin embargo, con tanto que ver y hacer, decidir qué visitar durante tu estancia en la ciudad puede ser todo un desafío.
+
+Para ayudarte, hemos reunido una selección de guías de algunos de los mejores lugares para visitar en Tokio. En nuestras guías encontrarás desde centros comerciales y restaurantes hasta monumentos históricos y culturales de la capital de Japón.
+
+# Palacio imperial de Tokio
+
+El Palacio Imperial de Tokio es, sin lugar a dudas, uno de los lugares más emblemáticos de la capital japonesa en cuanto a patrimonio histórico respecta. Es la residencia oficial del emperador y un importante centro cultural y turístico.
+
+Un robusto muro de piedra rodeado por un foso, edificios con techos inclinados en un estilo tradicional japonés, jardines elegantes y museos repletos de reliquias de la era Edo, son algunos de sus atractivos.
+
+# El cruce de Shibuya
+
+Siendo uno de los pasos de peatones más concurridos del mundo, el cruce de Shibuya es quizás el símbolo más emblemático de la ciudad de Tokio.
+
+Las grandes pantallas publicitarias del cruce de Shibuya y el intenso tráfico peatonal hacen que a menudo se compare con la intersección de Times Square en Nueva York y con Piccadilly Circus en Londres.
+
+A su vez, este cruce se considera como una perfecta representación de la imagen ultramoderna que Tokio proyecta en todo el mundo.
+
+# Templo Sensoji
+
+El Templo de Sensoji, también conocido como Asakusa Kannon, está ubicado en el distrito Asakusa de Tokio. Es el edificio religioso más antiguo de la ciudad y uno de los más coloridos y populares del país.
+
+Con aproximadamente 20 millones de visitantes anuales, también es el templo más visitado de Japón y el lugar espiritual más frecuentado del mundo.
+
+
+
