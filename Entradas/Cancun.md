@@ -1,0 +1,15 @@
+## Informacion de cancun 
+Más de 10 millones de turistas cada año no pueden equivocarse, Cancun y la Riviera Maya es uno de los destinos más importantes en el mundo cualquiera que sea tu idea de vacaciones; buceo, aventura, eco-parques, vida nocturna, deportes acuáticos entre otras actividades.
+
+Para los buzos y practicantes de esnorquel, Cancún es un paraíso. Las cristalinas aguas azules del Mar Caribe junto con el segundo arrecife de corales más grande del mundo y una gran abundancia de fauna submarina, hacen de este destino algo único en el mundo.
+
+# Clima en Cancún
+El clima en Cancún y en general en la Riviera Maya es tropical y húmedo, con sol durante todo el año. La temperatura de 20° a 30°C (68° a 86° F) de Octubre a Marzo y de 22° a 33° C (75° a 91° F) de Abril a Septiembre. 
+
+# Cancún divisas 
+La moneda oficial en Cancún es el peso mexicano, pero los dólares americanos también son ampliamente aceptados. Las casas de cambio y los bancos están abiertos de lunes a viernes de 9:00 AM a 4:00 PM y se encuentran en todo Cancún
+
+# Idioma hablado en Cancún 
+El idioma oficial hablado en Cancún es el español. La mayoría de los mexicanos que trabajan en la industria del turismo hablan Inglés. Mucha de la población local todavía hablan maya como su lengua materna y español como su segundo.  
+
+
