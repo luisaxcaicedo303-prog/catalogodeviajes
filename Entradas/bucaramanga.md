@@ -11,3 +11,6 @@ La ciudad está cobrando más y más fuerza como escenario de convenciones y via
 ## Girón
 ¿Te sientes inmerso en un oasis de tranquilidad? ¡Llegaste a Girón! Si bien se encuentra dentro la modernidad, el bullicio y el crecimiento urbano de Bucaramanga, esta ciudad colonial se las ingenió para mantener su atmósfera aletargada y atemporal. No hay nada mejor que pasear por sus callecitas empedradas y observar cada una de las casas blancas que las adornan. También encontrarás bonitas plazas con sus correspondientes iglesias, que poco han cambiado desde la época colonial, sin perder su encanto.
 
+# Parapente
+Al sur de la ciudad, alrededor de la Mesa de Ruitoque, se arremolinan los mejores vientos térmicos de Colombia para practicar parapente. Hay una oferta muy variada de vuelos en tándem que brindan vistas espectaculares de Bucaramanga y las montañas que la rodean. También encontrarás cursos de varios días disponibles para quienes deseen aprender el deporte con el objetivo de volar por su cuenta.
+
