@@ -8,3 +8,8 @@ De hecho, el ingenio es una característica de los antioqueños, por lo que no e
 El clima de Medellín, su paisaje montañoso, sus espectaculares vistas panorámicas y sus espacios verdes convierten los recorridos por la ciudad en una experiencia que seduce.
 
 Lugares como el Jardín Botánico, el parque de los Pies Descalzos, el parque Berrío y el parque Lleras son sitios que no puedes dejar de visitar.
+
+## Donde alojarse en Medellin? 
+A través de nuestras regiones con sus encantadores destinos y experiencias , descubrirás que la diversidad que define a Colombia incluye a su oferta turística.
+
+Acá podrás disfrutar de turismo de aventura, cultural, comunitario, gastronómico, de reuniones y mucho más.
