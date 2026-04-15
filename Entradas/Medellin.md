@@ -13,3 +13,17 @@ Lugares como el Jardín Botánico, el parque de los Pies Descalzos, el parque Be
 A través de nuestras regiones con sus encantadores destinos y experiencias , descubrirás que la diversidad que define a Colombia incluye a su oferta turística.
 
 Acá podrás disfrutar de turismo de aventura, cultural, comunitario, gastronómico, de reuniones y mucho más.
+
+## MEDELLÍN EN 10 SABORES
+Embárcate en un viaje culinario en Medellín, donde la creatividad de los chefs locales te llevarán a explorar aromas y sabores propios y de tierras lejanas.
+
+Fríjoles
+Chicharrón
+Café
+Frutas
+Mazamorra
+Quesito
+Arepas
+Empanadas
+Tamal
+Solteritas
