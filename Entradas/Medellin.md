@@ -27,3 +27,8 @@ Arepas
 Empanadas
 Tamal
 Solteritas
+
+## Clima de Medellin
+Medellín cuenta con un clima privilegiado, y es realmente común escuchar a viajeros nacionales e internacionales expresar que es uno de los climas más agradables del país, esto se debe a que se caracteriza por no ser ni muy caliente, ni muy frío, con una temperatura promedio entre 16°C y 26°C.
+
+Nuestra recomendación es venir preparados para la impredecibilidad de un clima subtropical húmedo caracterizada por un ambiente templado con lluvias frecuentes durante todo el año, por lo que traer en la maleta una chaqueta impermeable y un par de botas no estaría mal, así como por supuesto ropa liviana y fresca para los días soleados, que son la mayoría.
